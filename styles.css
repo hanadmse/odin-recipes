@@ -1,0 +1,26 @@
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(255, 59, 92);
+    background-color: black;
+}
+
+li {
+    color:rgb(6, 6, 167);
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+   background-color: rgb(230, 230, 230);
+}
+
+h2, h3, h4{
+    color:rgb(29, 124, 93);
+    background-color: rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    font-weight: bold;
+}
